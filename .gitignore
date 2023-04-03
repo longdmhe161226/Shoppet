@@ -1,0 +1,6 @@
+/ShopPet/nbproject/private/
+/ShopPet/build/
+
+# env
+/ShopPet/src/java/dal/DBContext.java
+/ShopPet/dist/
